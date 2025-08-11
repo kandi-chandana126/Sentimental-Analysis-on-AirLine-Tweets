@@ -1,5 +1,5 @@
 Airline Tweets Sentiment Analysis using DistilBERT
-1. Introduction
+ Introduction
 Sentiment analysis is a key Natural Language Processing (NLP) task that determines the emotional tone behind a piece of text.
 This project focuses on analyzing airline-related tweets and classifying them into three sentiment categories:
 
