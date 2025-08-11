@@ -1,22 +1,13 @@
-✈️ Sentiment Analysis on Airline Tweets
-This project analyzes tweets from X (formerly Twitter) related to airlines and classifies them into Positive, Negative, or Neutral sentiments. It uses the DistilBERT transformer model for accurate and efficient sentiment classification.
-🔹 Key Features
+Airline Tweets Sentiment Analysis using DistilBERT
+1. Introduction
+Sentiment analysis is a key Natural Language Processing (NLP) task that determines the emotional tone behind a piece of text.
+This project focuses on analyzing airline-related tweets and classifying them into three sentiment categories:
 
-Fetches real-time airline-related tweets from X (Twitter API)
+Positive → Indicates customer satisfaction or praise
 
-Preprocesses text by removing URLs, mentions, hashtags, and special characters
+Negative → Reflects dissatisfaction, complaints, or criticism
 
-Classifies sentiment into Positive, Negative, or Neutral
+Neutral → Represents factual or emotionless statements
 
-Powered by Hugging Face’s DistilBERT model for high performance
+The aim is to help airlines, travel agencies, and analysts understand customer perception and service quality trends.
 
- Tech Stack
-Python 3.8+
-
-Hugging Face Transformers
-
-DistilBERT
-
-Pandas / NumPy
-
-Scikit-learn (for evaluation metrics)
